@@ -1,0 +1,182 @@
+[
+  {
+    "id": "af91e7d8-6657-4f25-9898-bd53a520d810",
+    "data": [
+      {
+        "text": "student intakes of ",
+        "userDefined": false
+      },
+      {
+        "text": "cse",
+        "alias": "Dept",
+        "meta": "@Department",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520801625
+  },
+  {
+    "id": "5978af3f-8e0b-4ba1-89ba-778eb66b188b",
+    "data": [
+      {
+        "text": "how may seats are available  in ",
+        "userDefined": false
+      },
+      {
+        "text": "mtech",
+        "alias": "degree",
+        "meta": "@degree",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "cse",
+        "alias": "Dept",
+        "meta": "@Department",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520801625
+  },
+  {
+    "id": "c1c9a285-7817-4e51-99a0-2f6ff957a888",
+    "data": [
+      {
+        "text": "how many seats are there in ",
+        "userDefined": false
+      },
+      {
+        "text": "mtech",
+        "alias": "degree",
+        "meta": "@degree",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "cse",
+        "alias": "Dept",
+        "meta": "@Department",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520801625
+  },
+  {
+    "id": "5c7c90d3-2b16-49b8-b078-7e7dad6af4a5",
+    "data": [
+      {
+        "text": "intake of ",
+        "userDefined": false
+      },
+      {
+        "text": "cse",
+        "alias": "Dept",
+        "meta": "@Department",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520801625
+  },
+  {
+    "id": "38506399-76c4-4bd6-a373-1eb2851c8007",
+    "data": [
+      {
+        "text": "cse",
+        "alias": "Dept",
+        "meta": "@Department",
+        "userDefined": true
+      },
+      {
+        "text": " dept intake",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520801625
+  },
+  {
+    "id": "3b703ebb-080b-462c-ab18-b01ea0b39905",
+    "data": [
+      {
+        "text": "What are the intakes of ",
+        "userDefined": false
+      },
+      {
+        "text": "cse",
+        "alias": "Dept",
+        "meta": "@Department",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520801625
+  },
+  {
+    "id": "0fc623a8-eea1-479d-a221-4592d49e448d",
+    "data": [
+      {
+        "text": "No of seats in ",
+        "userDefined": false
+      },
+      {
+        "text": "cse",
+        "alias": "Dept",
+        "meta": "@Department",
+        "userDefined": true
+      },
+      {
+        "text": " dept",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520801625
+  },
+  {
+    "id": "4634b035-5d69-471a-87e0-77356774c228",
+    "data": [
+      {
+        "text": "how many seats are there in ",
+        "userDefined": false
+      },
+      {
+        "text": "cse",
+        "alias": "Dept",
+        "meta": "@Department",
+        "userDefined": true
+      },
+      {
+        "text": " department?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520801625
+  }
+]

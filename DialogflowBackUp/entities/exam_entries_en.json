@@ -1,0 +1,31 @@
+[
+  {
+    "value": "mid2",
+    "synonyms": [
+      "mid2",
+      "second mid",
+      "2nd mid",
+      "mid two",
+      "mid 2"
+    ]
+  },
+  {
+    "value": "sem",
+    "synonyms": [
+      "sem",
+      "semester",
+      "final exam"
+    ]
+  },
+  {
+    "value": "mid1",
+    "synonyms": [
+      "mid1",
+      "first mid",
+      "1st mid",
+      "first midterm",
+      "mid one",
+      "mid 1"
+    ]
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "id": "d134de29-1326-42c1-8dbf-b1e1a76f9656",
+  "name": "Hod",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "94cfdd65-37da-4e62-9c9c-6ec6455b69ab",
+          "required": false,
+          "dataType": "@Department",
+          "name": "Dept",
+          "value": "$Dept",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "of which department?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523201223,
+  "fallbackIntent": false,
+  "events": []
+}

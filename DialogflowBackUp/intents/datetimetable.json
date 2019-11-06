@@ -1,0 +1,51 @@
+{
+  "id": "3e8c3916-07fd-480c-aa17-76e797763fb4",
+  "name": "datetimetable",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "87047cfd-dd7b-4e53-8be7-f964a5c7e501",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "ddate",
+          "value": "$ddate",
+          "isList": false
+        },
+        {
+          "id": "3ac79540-1a6a-44e5-a238-206256a1b9ae",
+          "required": true,
+          "dataType": "@class",
+          "name": "dclass",
+          "value": "$dclass",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which class(ex: 4cse1(means 4th year cse 1st section))?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523197813,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "c43e6d51-ed30-4f0b-83f6-637d0aa11f89",
+  "name": "listeventsinfest",
+  "auto": true,
+  "contexts": [
+    "listfest"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "listfest",
+          "parameters": {},
+          "lifespan": 3
+        }
+      ],
+      "parameters": [
+        {
+          "id": "23917f8f-0467-48d3-8551-012f9c31af1c",
+          "required": false,
+          "dataType": "@fests",
+          "name": "fests",
+          "value": "$fests",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523255755,
+  "fallbackIntent": false,
+  "events": []
+}

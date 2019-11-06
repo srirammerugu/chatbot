@@ -1,0 +1,28 @@
+{
+  "id": "83ff0d84-5e85-4cd6-ac10-97b8432b56b2",
+  "name": "Timings",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The college starts at 09:30AM in the morning and ends at 04:30PM in the evening in weekdays ,\non saturday timings are from 09:30AM to 01:00PM and sunday is holiday"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523199695,
+  "fallbackIntent": false,
+  "events": []
+}

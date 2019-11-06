@@ -1,0 +1,28 @@
+{
+  "id": "29d75bae-d685-4178-9a39-121e94def6da",
+  "name": "principal",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Director of Kitsw is Dr.Y.Manohar \u0026\nPrincipal of Kitsw is Dr.P.Venkateshwar Rao"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523200344,
+  "fallbackIntent": false,
+  "events": []
+}

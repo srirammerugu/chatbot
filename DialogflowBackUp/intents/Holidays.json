@@ -1,0 +1,28 @@
+{
+  "id": "64b4814b-fe87-4ab0-bfad-a3306316710f",
+  "name": "Holidays",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523198212,
+  "fallbackIntent": false,
+  "events": []
+}
