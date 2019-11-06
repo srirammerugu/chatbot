@@ -1,0 +1,50 @@
+[
+ {
+   "Dept": "CSE",
+   "BTech": 180,
+   "MTech": 36,
+   "PhD": 8
+ },
+ {
+   "Dept": "CIVIL",
+   "BTech": 120,
+   "MTech": 24,
+   "PhD": 8
+ },
+ {
+   "Dept": "MECH",
+   "BTech": 180,
+   "MTech": 24,
+   "PhD": 8
+ },
+ {
+   "Dept": "EI",
+   "BTech": 60,
+   "MTech": 18,
+   "PhD": 8
+ },
+ {
+   "Dept": "EEE",
+   "BTech": 120,
+   "MTech": 18,
+   "PhD": 0
+ },
+ {
+   "Dept": "ECE",
+   "BTech": 180,
+   "MTech": 25,
+   "PhD": 0
+ },
+ {
+   "Dept": "IT",
+   "BTech": 60,
+   "MTech": 0,
+   "PhD": 0
+ },
+ {
+   "Dept": "MBA",
+   "BTech": 0,
+   "MTech": 60,
+   "PhD": 0
+ }
+]

@@ -1,0 +1,2338 @@
+{
+  "U14CE106": {
+    "name": "Basic Engineering Mechanics",
+    "shortname": "BEM",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CE"
+  },
+  "U14CE206": {
+    "name": "Basic Engineering Mechanics",
+    "shortname": "BEM",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CE"
+  },
+  "U14CE302": {
+    "name": "Strength of Materials – I",
+    "shortname": "SOM-I",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE303": {
+    "name": "Fluid Mechanics",
+    "shortname": "FM",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE304": {
+    "name": "Surveying - I",
+    "shortname": "S-I",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE305": {
+    "name": "Building  Materials and Construction",
+    "shortname": "BMC",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE306": {
+    "name": "Engineering Geology",
+    "shortname": "EG",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE307": {
+    "name": "Survey Field Work - I",
+    "shortname": "SFW-I",
+    "credits": "2",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE308": {
+    "name": "Fluid Mechanics  Laboratory",
+    "shortname": "FML",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE310": {
+    "name": "Mechanics of Fluids",
+    "shortname": "MOF",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE311": {
+    "name": "Mechanics of Fluids Laboratory",
+    "shortname": "MOF lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE402": {
+    "name": "Strength of Materials - II",
+    "shortname": "SOM-II",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE403": {
+    "name": "Hydraulics and Hydraulic Machines",
+    "shortname": "HHM",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE404": {
+    "name": "Surveying - II",
+    "shortname": "S-II",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE405": {
+    "name": "Concrete Technology",
+    "shortname": "CT",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE406": {
+    "name": "Survey Field Work - II",
+    "shortname": "SFW-II",
+    "credits": "2",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE407": {
+    "name": "Hydraulics and Hydraulic Machines Laboratory",
+    "shortname": "HHM LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE501": {
+    "name": "Structural Analysis - I",
+    "shortname": "SA-I",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE502": {
+    "name": "Design of Reinforced Concrete Structures",
+    "shortname": "DRCS",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE503": {
+    "name": "Geotechnical Engineering - I",
+    "shortname": "GE-I",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE504": {
+    "name": "Highway Engineering",
+    "shortname": "HE",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE505": {
+    "name": "Environmental Engineering",
+    "shortname": "EE",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE506": {
+    "name": "Material Testing Laboratory",
+    "shortname": "MTL",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE507": {
+    "name": "Concrete Technology Laboratory",
+    "shortname": "CTL",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE508": {
+    "name": "Computer Aided Building Drawing Laboratory",
+    "shortname": "CABD LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE509": {
+    "name": "Seminar",
+    "shortname": "SEM",
+    "credits": "1",
+    "marks": "100",
+    "category": "Seminar",
+    "department": "CE"
+  },
+  "U14CE602": {
+    "name": "Structural Analysis-II",
+    "shortname": "SA-II",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE603": {
+    "name": "Design of Steel Structures",
+    "shortname": "DSS",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE604": {
+    "name": "Geotechnical Engineering - II",
+    "shortname": "GE-II",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE605": {
+    "name": "Engineering Hydrology",
+    "shortname": "EH",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE606": {
+    "name": "Professional Elective-I",
+    "shortname": "PE-I",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE606A": {
+    "name": "Prestressed Concrete",
+    "shortname": "PE-1A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE606B": {
+    "name": "Ground Improvement Techniques",
+    "shortname": "PE-1B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE606C": {
+    "name": "Railway Engineering",
+    "shortname": "PE-1C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE607": {
+    "name": "Highway Engineering Laboratory",
+    "shortname": "HE LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE608": {
+    "name": "Geotechnical Engineering Laboratory",
+    "shortname": "GE LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE609": {
+    "name": "Mini Project",
+    "shortname": "MP",
+    "credits": "2",
+    "marks": "100",
+    "category": "Mini-Project",
+    "department": "CE"
+  },
+  "U14CE702": {
+    "name": "Irrigation Engineering  and  Hydraulic Structures",
+    "shortname": "IEH",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE703": {
+    "name": "Estimation and Valuation",
+    "shortname": "EV",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE704": {
+    "name": "Professional Elective - II",
+    "shortname": "PE-II",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE704A": {
+    "name": "Elements of Structural Dynamics",
+    "shortname": "PE-AII",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE704B": {
+    "name": "Bridge Engineering",
+    "shortname": "PE-IIB",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE704C": {
+    "name": "Remote Sensing and Geographical",
+    "shortname": "PE-IIC",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE705": {
+    "name": "Professional Elective –III",
+    "shortname": "PE-III",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE705A": {
+    "name": "Advanced Structural Design",
+    "shortname": "PE-IIIA",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE705B": {
+    "name": "Airport Engineering",
+    "shortname": "PE-IIIB",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE705C": {
+    "name": "Design of Environmental Engineering Systems.",
+    "shortname": "PE-IIIC",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE706": {
+    "name": "Environmental Engineering Laboratory",
+    "shortname": "EE LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE707": {
+    "name": "Civil Engineering Detailing Laboratory",
+    "shortname": "CED LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE708": {
+    "name": "Major Project Work: Phase - I",
+    "shortname": "MPW-I",
+    "credits": "4",
+    "marks": "100",
+    "category": "project-1",
+    "department": "CE"
+  },
+  "U14CE802": {
+    "name": "Construction Technology and Management",
+    "shortname": "CTM",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "CE"
+  },
+  "U14CE803": {
+    "name": "Professional  Elective – IV",
+    "shortname": "PE-4",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE803A": {
+    "name": "Finite Elements Analysis",
+    "shortname": "PE-4A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE803B": {
+    "name": "Earth Retaining Structures",
+    "shortname": "PE-4B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE803C": {
+    "name": "Watershed Management",
+    "shortname": "PE-4C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE803D": {
+    "name": "Repair and Rehabilitation of Structures",
+    "shortname": "PE-4D",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE804": {
+    "name": "Professional  Elective – V",
+    "shortname": "PE-V",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE804A": {
+    "name": "Earthquake Engineering",
+    "shortname": "PE-5A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE804B": {
+    "name": "Construction Contracts Management",
+    "shortname": "PE-5B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE804C": {
+    "name": "Traffic Engineering and Transportation Planning",
+    "shortname": "PE-5C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE804D": {
+    "name": "Environmental Impact Assessment",
+    "shortname": "PE-5D",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "CE"
+  },
+  "U14CE805": {
+    "name": "Civil Engineering Software Applications Laboratory",
+    "shortname": "CESA LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE806": {
+    "name": "Engineering Geology Laboratory",
+    "shortname": "EG LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CE"
+  },
+  "U14CE807": {
+    "name": "Major Project Work: Phase - II",
+    "shortname": "MPW-II",
+    "credits": "7",
+    "marks": "100",
+    "category": "project-2",
+    "department": "CE"
+  },
+  "U14CH103": {
+    "name": "Engineering Chemistry",
+    "shortname": "CHEM-I",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CH"
+  },
+  "U14CH108": {
+    "name": "Engineering Chemistry Laboratory",
+    "shortname": "CHEM lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CH"
+  },
+  "U14CH109": {
+    "name": "Environmental Studies",
+    "shortname": "ES",
+    "credits": "2",
+    "marks": "100",
+    "category": "mandatory",
+    "department": "CH"
+  },
+  "U14CH203": {
+    "name": "Engineering Chemistry",
+    "shortname": "CHEM",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CH"
+  },
+  "U14CH208": {
+    "name": "Engineering Chemistry Laboratory",
+    "shortname": "CHEM lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CH"
+  },
+  "U14CH209": {
+    "name": "Environmental Studies",
+    "shortname": "ES",
+    "credits": "2",
+    "marks": "100",
+    "category": "mandatory",
+    "department": "CH"
+  },
+  "U14CS102": {
+    "name": "Programming in C",
+    "shortname": "PC",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS107": {
+    "name": "Programming in C Laboratory",
+    "shortname": "PC lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CS"
+  },
+  "U14CS202": {
+    "name": "Object Oriented Programming (OOP)",
+    "shortname": "OOP",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS207": {
+    "name": "Object Oriented Programming lab",
+    "shortname": "OOP lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "CS"
+  },
+  "U14CS304": {
+    "name": "Computer Architecture and Organization",
+    "shortname": "CAO",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS305": {
+    "name": "Data Structures and Algorithms",
+    "shortname": "DA",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS306": {
+    "name": "Object Oriented Programming through Java",
+    "shortname": "OOPJ",
+    "credits": "4",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS307": {
+    "name": "Data Structures and Algorithms Laboratory",
+    "shortname": "DSA lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS308": {
+    "name": "Java Programming Laboratory",
+    "shortname": "OOPJ lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS402": {
+    "name": "Theory of Computation",
+    "shortname": "TOC",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS403": {
+    "name": "Database Management Systems",
+    "shortname": "DBMS",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS404": {
+    "name": "Software Engineering",
+    "shortname": "SE",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS405": {
+    "name": "Operating Systems",
+    "shortname": "OS",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS406": {
+    "name": "Database Management Systems Laboratory",
+    "shortname": "DBMS Lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS407": {
+    "name": "Operating Systems Laboratory",
+    "shortname": "OS lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS501": {
+    "name": "Computer Networks",
+    "shortname": "CN",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS502": {
+    "name": "Design and Analysis of Algorithms",
+    "shortname": "DAA",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS504": {
+    "name": "Language Processors",
+    "shortname": "LP",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS505": {
+    "name": "Web Programming",
+    "shortname": "WP",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS506": {
+    "name": "Language Processors Laboratory",
+    "shortname": "LP lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS507": {
+    "name": "Web Programming Laboratory",
+    "shortname": "WP lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS509": {
+    "name": "seminar",
+    "shortname": "seminar",
+    "credits": "1",
+    "marks": "100",
+    "category": "Seminar",
+    "department": "CS"
+  },
+  "U14CS602": {
+    "name": "Wireless and Mobile Communications",
+    "shortname": "WMC",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS603": {
+    "name": "Machine Learning",
+    "shortname": "ML",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS604": {
+    "name": "Data Warehousing and Data Mining",
+    "shortname": "DWDM",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS605": {
+    "name": "Cryptography and Network Security",
+    "shortname": "CNS",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS606": {
+    "name": "Professional Elective-I",
+    "shortname": "PE-I",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS606A": {
+    "name": "Advanced Databases",
+    "shortname": "ADB-PE-1A",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS606B": {
+    "name": "Computer Graphics and Multimedia",
+    "shortname": "CGM-PE-1B",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS606C": {
+    "name": "Embedded System",
+    "shortname": "ES-PE-1C",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS607": {
+    "name": "Data Analytics Laboratory",
+    "shortname": "DA lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS608": {
+    "name": "GUI Programming Laboratory",
+    "shortname": "GUI lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS609": {
+    "name": "Mini Project",
+    "shortname": "MINI PROJECT",
+    "credits": "2",
+    "marks": "100",
+    "category": "miniproject",
+    "department": "CS"
+  },
+  "U14CS702": {
+    "name": "Middleware Technologies",
+    "shortname": "MT",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS703": {
+    "name": "Cloud Computing",
+    "shortname": "CC",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS704": {
+    "name": "Professional Elective-II",
+    "shortname": "PE-II",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS704A": {
+    "name": "High Performance Computing",
+    "shortname": "HPC-PE-IIA",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS704B": {
+    "name": "Digital Image Processing",
+    "shortname": "DIP-PE-IIB",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS704C": {
+    "name": "Secure Software Engineering",
+    "shortname": "SSE-PE-IIC",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS705": {
+    "name": "Professional Elective-III",
+    "shortname": "PE-III",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS705A": {
+    "name": "Soft Computing",
+    "shortname": "SC-PE-IIIA",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS705B": {
+    "name": "Design Patterns",
+    "shortname": "DP-PE-IIIB",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS705C": {
+    "name": "Human Computer Interaction",
+    "shortname": "HCI-PE-IIIC",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS706": {
+    "name": "Middleware Technologies Laboratory",
+    "shortname": "MT lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS707": {
+    "name": "Object Oriented Analysis and Design Laboratory",
+    "shortname": "OOAD lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS708": {
+    "name": "Major Project Work Phase- I",
+    "shortname": "project-I",
+    "credits": "7",
+    "marks": "100",
+    "category": "project1",
+    "department": "CS"
+  },
+  "U14CS802": {
+    "name": "Software Testing and Quality Assurance",
+    "shortname": "STQA",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "CS"
+  },
+  "U14CS803": {
+    "name": "Professional Elective-IV",
+    "shortname": "PE-4",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS803A": {
+    "name": "Big Data Management",
+    "shortname": "PE-4A",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS803B": {
+    "name": "Information Retrieval Systems",
+    "shortname": "PE-4B",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS803C": {
+    "name": "Natural Language Processing",
+    "shortname": "PE-4C",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS804": {
+    "name": "Professional Elective-V",
+    "shortname": "PE-5",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS804A": {
+    "name": "E-Commerce",
+    "shortname": "PE-5A",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS804B": {
+    "name": "Semantic Web and Social Networks",
+    "shortname": "PE-5B",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS804C": {
+    "name": "Web Services",
+    "shortname": "PE-5C",
+    "credits": "4",
+    "marks": "100",
+    "category": "professionalElective",
+    "department": "CS"
+  },
+  "U14CS805": {
+    "name": "CASE Tools & Software Testing Laboratory",
+    "shortname": "CTST lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS806": {
+    "name": "Mobile Applications Development Laboratory",
+    "shortname": "MAD lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "CS"
+  },
+  "U14CS807": {
+    "name": "Major Project Work Phase- II",
+    "shortname": "project-II",
+    "credits": "7",
+    "marks": "100",
+    "category": "project2",
+    "department": "CS"
+  },
+  "U14EA110": {
+    "name": "EAA. Physical Education and NSS",
+    "shortname": "EAA",
+    "credits": "1",
+    "marks": "100",
+    "category": "Mandatory",
+    "department": "EA"
+  },
+  "U14EA210": {
+    "name": "EAA: Physical Education and NSS",
+    "shortname": "EAA",
+    "credits": "1",
+    "marks": "100",
+    "category": "mandatory",
+    "department": "EA"
+  },
+  "U14EC304": {
+    "name": "Electronic Circuits",
+    "shortname": "EC",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EC"
+  },
+  "U14EC308": {
+    "name": "Electronic Devices and Circuits Laboratory",
+    "shortname": "EDC LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EC"
+  },
+  "U14EC510": {
+    "name": "Microprocessors and Microcontroller Systems",
+    "shortname": "MMS",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EC"
+  },
+  "U14EC511": {
+    "name": "Microprocessors and Microcontroller Laboratory",
+    "shortname": "MPMC LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EC"
+  },
+  "U14EE105": {
+    "name": "Basic Electrical Engineering",
+    "shortname": "BEE",
+    "credits": "3",
+    "marks": "100",
+    "category": "subject",
+    "department": "EE"
+  },
+  "U14EE205": {
+    "name": "Basic Electrical Engineering",
+    "shortname": "BEE",
+    "credits": "3",
+    "marks": "100",
+    "category": "subject",
+    "department": "EE"
+  },
+  "U14EE302": {
+    "name": "Circuit Theory-I",
+    "shortname": "CT - I",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE305": {
+    "name": "Electrical and  Electronic Measurements",
+    "shortname": "EEM",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE306": {
+    "name": "Electric and Magnetic Fields",
+    "shortname": "EMF",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE402": {
+    "name": "Electrical Machines-I",
+    "shortname": "EM-IV",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE403": {
+    "name": "Circuit Theory-II",
+    "shortname": "CT-II",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE407": {
+    "name": "Electrical and Electronic Measurements Laboratory",
+    "shortname": "EEM LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE410": {
+    "name": "Basic Electrical Measurements and Instrumentation ...",
+    "shortname": "BEMI LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE411": {
+    "name": "Circuits and Simulation Laboratory",
+    "shortname": "CS LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE412": {
+    "name": "Basic Electrical and Electronics Engineering Labor...",
+    "shortname": "BEEE lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE501": {
+    "name": "Electrical Machines-II",
+    "shortname": "EM-II",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE502": {
+    "name": "Power Systems-I",
+    "shortname": "EM-I",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE503": {
+    "name": "Power Electronics",
+    "shortname": "PE",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE506": {
+    "name": "Control Systems Engineering",
+    "shortname": "CSE",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE507": {
+    "name": "Electrical Machines-I Laboratory",
+    "shortname": "EM-I",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE508": {
+    "name": "Control Systems Laboratory",
+    "shortname": "CS LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE509": {
+    "name": "Seminar",
+    "shortname": "SEM",
+    "credits": "1",
+    "marks": "100",
+    "category": "Seminar",
+    "department": "EE"
+  },
+  "U14EE602": {
+    "name": "Power Systems-II",
+    "shortname": "PS-II",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE604": {
+    "name": "Power Semiconductor  Drives",
+    "shortname": "PSD",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE605": {
+    "name": "Utilization of Electrical Energy",
+    "shortname": "UEE",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE606": {
+    "name": "Professional Elective-I",
+    "shortname": "PE-1",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE606A": {
+    "name": "Advanced Control Systems",
+    "shortname": "PE-1A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE606B": {
+    "name": "High Voltage Engineering",
+    "shortname": "PE-1B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE606C": {
+    "name": "Switched Mode Power Conversion",
+    "shortname": "PE-1B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE607": {
+    "name": "Power Electronics and Simulation Laboratory",
+    "shortname": "PES LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE608": {
+    "name": "Electrical Machines-II Laboratory",
+    "shortname": "EM-II LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE609": {
+    "name": "Mini Project Work",
+    "shortname": "MPW",
+    "credits": "2",
+    "marks": "100",
+    "category": "Mini-Project",
+    "department": "EE"
+  },
+  "U14EE702": {
+    "name": "Power System Operation and Control",
+    "shortname": "PSOC",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE703": {
+    "name": "Power System Protection",
+    "shortname": "PSP",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE704": {
+    "name": "Professional Elective-II",
+    "shortname": "PE-II",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE704A": {
+    "name": "AI Techniques in Electrical Engineering",
+    "shortname": "AITEE",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE704B": {
+    "name": "Embedded Systems",
+    "shortname": "ES",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE704C": {
+    "name": "Special Purpose Machines",
+    "shortname": "SPM",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE705": {
+    "name": "Professional Elective-III",
+    "shortname": "PE-III",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE705A": {
+    "name": "HVDC and FACTS",
+    "shortname": "HVDCF",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE705B": {
+    "name": "Power System Deregulation",
+    "shortname": "PSD",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE705C": {
+    "name": "Distribution System Planning and Automation",
+    "shortname": "DSPA",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE706": {
+    "name": "Electric Drives Laboratory",
+    "shortname": "EDL",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE707": {
+    "name": "Electrical Simulation  Laboratory",
+    "shortname": "ES LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE708": {
+    "name": "Major Project Work Phase-I",
+    "shortname": "MPW-I",
+    "credits": "4",
+    "marks": "100",
+    "category": "project-1",
+    "department": "EE"
+  },
+  "U14EE802": {
+    "name": "Renewable Energy Systems",
+    "shortname": "RES",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE803": {
+    "name": "Professional Elective-IV",
+    "shortname": "PE-IV",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EE"
+  },
+  "U14EE803A": {
+    "name": "Digital Control Systems",
+    "shortname": "DCS",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE803B": {
+    "name": "Advance Power System Protection",
+    "shortname": "APSP",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE803C": {
+    "name": "Real Time Control of Power Systems",
+    "shortname": "RTCPS",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE804": {
+    "name": "Professional Elective-V",
+    "shortname": "PE-5",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE804A": {
+    "name": "Computer Methods in Power Systems",
+    "shortname": "PE-5A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE804B": {
+    "name": "Smart Electric Grid",
+    "shortname": "PE-5B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE804C": {
+    "name": "Design of Electrical Machines",
+    "shortname": "PE-5C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profesional Elective",
+    "department": "EE"
+  },
+  "U14EE805": {
+    "name": "Power Systems Laboratory",
+    "shortname": "PS LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE806": {
+    "name": "Renewable Energy Systems Laboratory",
+    "shortname": "RES LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EE"
+  },
+  "U14EE807": {
+    "name": "Major Project Work Phase-II",
+    "shortname": "MPW-II",
+    "credits": "7",
+    "marks": "100",
+    "category": "project-2",
+    "department": "EE"
+  },
+  "U14EI105": {
+    "name": "Basic Electronics Engineering",
+    "shortname": "BEL",
+    "credits": "3",
+    "marks": "100",
+    "category": "subject",
+    "department": "EI"
+  },
+  "U14EI205": {
+    "name": "Basic Electronics Engineering",
+    "shortname": "BEL",
+    "credits": "3",
+    "marks": "100",
+    "category": "subject",
+    "department": "EI"
+  },
+  "U14EI303": {
+    "name": "Digital Circuits and Logic Design",
+    "shortname": "DCLD",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "EI"
+  },
+  "U14EI405": {
+    "name": "Linear Integrated Circuits",
+    "shortname": "LIC",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EI"
+  },
+  "U14EI410": {
+    "name": "Digital Electronics",
+    "shortname": "DE",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EI"
+  },
+  "U14EI412": {
+    "name": "Integrated Circuits Laboratory",
+    "shortname": "IC LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "EI"
+  },
+  "U14EI503": {
+    "name": "Microprocessors and Interfacing",
+    "shortname": "MI",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "EI"
+  },
+  "U14EI510": {
+    "name": "Digital Electronics and Microprocessors lab",
+    "shortname": "DEMP lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "lab",
+    "department": "EI"
+  },
+  "U14EI603": {
+    "name": "Digital Signal Processing",
+    "shortname": "DSP",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "EI"
+  },
+  "U14IT310": {
+    "name": "Data Structures",
+    "shortname": "DS",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "IT"
+  },
+  "U14IT311": {
+    "name": "Data Structures Laboratory",
+    "shortname": "DS LAB",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "IT"
+  },
+  "U14ME104": {
+    "name": "Engineering Drawing",
+    "shortname": "ED",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "ME"
+  },
+  "U14ME106": {
+    "name": "Basic Mechanical Engineering",
+    "shortname": "BME",
+    "credits": "3",
+    "marks": "100",
+    "category": "subject",
+    "department": "ME"
+  },
+  "U14ME109": {
+    "name": "Engineering Workshop Practice",
+    "shortname": "EWP",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME204": {
+    "name": "Engineering Drawing",
+    "shortname": "ED",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "ME"
+  },
+  "U14ME206": {
+    "name": "Basic Mechanical Engineering",
+    "shortname": "BME",
+    "credits": "3",
+    "marks": "100",
+    "category": "subject",
+    "department": "ME"
+  },
+  "U14ME209": {
+    "name": "Engineering Workshop Practice",
+    "shortname": "EWP",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME302": {
+    "name": "Material Science and Metallurgy",
+    "shortname": "MSM",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME303": {
+    "name": "Mechanics of Solids",
+    "shortname": "MS",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME304": {
+    "name": "Manufacturing Processes",
+    "shortname": "MP",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME305": {
+    "name": "Machine Drawing",
+    "shortname": "MD",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME306": {
+    "name": "Material Science and Metallurgy  Laboratory",
+    "shortname": "MSM lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME402": {
+    "name": "Thermodynamics",
+    "shortname": "TD",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME403": {
+    "name": "Design of Machine Elements -I",
+    "shortname": "DME-1",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME404": {
+    "name": "Machine Tool Technology",
+    "shortname": "MTT",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME405": {
+    "name": "Computer Aided Design and Graphics",
+    "shortname": "CAD",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME406": {
+    "name": "Manufacturing Technology Laborarory",
+    "shortname": "MT lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME407": {
+    "name": "Computer Aided Design and Graphics Laboratory",
+    "shortname": "CAD lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME501": {
+    "name": "Internal Combustion Engines",
+    "shortname": "ICE",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME502": {
+    "name": "Design of Machine Elements -II",
+    "shortname": "DME-2",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME503": {
+    "name": "Production and Operation Management",
+    "shortname": "POM",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME504": {
+    "name": "Metrology and Instrumentation",
+    "shortname": "MI",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME505": {
+    "name": "Kinematics of Machinery",
+    "shortname": "KM",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME506": {
+    "name": "Applied Thermodynamics",
+    "shortname": "ATD",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME507": {
+    "name": "Fuels and Internal Combustion Engines Laboratory",
+    "shortname": "FIC lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME508": {
+    "name": "Metrology and Instrumentation Laboratory",
+    "shortname": "MI lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME509": {
+    "name": "Seminar",
+    "shortname": "Seminar",
+    "credits": "1",
+    "marks": "100",
+    "category": "Seminar",
+    "department": "ME"
+  },
+  "U14ME602": {
+    "name": "Heat Transfer",
+    "shortname": "HT",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME603": {
+    "name": "Principles of Metal Cutting",
+    "shortname": "PMC",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME604": {
+    "name": "Dynamics of Machinery",
+    "shortname": "DOM",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME605": {
+    "name": "Professional Elective-I",
+    "shortname": "PE-1",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME605A": {
+    "name": "Finite Element Methods",
+    "shortname": "PE-1A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME605B": {
+    "name": "Mechanical Vibrations and Condition Monitoring",
+    "shortname": "PE-1B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME605C": {
+    "name": "Composite Materials",
+    "shortname": "PE-1C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME606": {
+    "name": "Heat Transfer Laboratory",
+    "shortname": "HT lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME607": {
+    "name": "Principles of Metal Cutting  Laboratory",
+    "shortname": "PMC lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME608": {
+    "name": "Computer Aided Analysis Laboratory",
+    "shortname": "CAA lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME609": {
+    "name": "Mini Project",
+    "shortname": "MP",
+    "credits": "2",
+    "marks": "100",
+    "category": "Mini-Project",
+    "department": "ME"
+  },
+  "U14ME702": {
+    "name": "Turbo Machines",
+    "shortname": "TM",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME703": {
+    "name": "Refrigeration and Air Conditioning",
+    "shortname": "RAC",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME704": {
+    "name": "Professional Elective – II",
+    "shortname": "PE-2",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME704A": {
+    "name": "Modern Machining Processes",
+    "shortname": "PE-2A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME704B": {
+    "name": "System Simulation",
+    "shortname": "PE-2B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME704C": {
+    "name": "Design for Manufacturing and Assembly",
+    "shortname": "PE-2C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME705": {
+    "name": "Professional Elective – III",
+    "shortname": "PE-3",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME705A": {
+    "name": "Fuels and Combustion",
+    "shortname": "PE-3A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME705B": {
+    "name": "Total Quality Management",
+    "shortname": "PE-3B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME705C": {
+    "name": "Fundamental Principles of Engineering Design",
+    "shortname": "PE-3C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME705D": {
+    "name": "Automobile Engineering",
+    "shortname": "PE-3D",
+    "credits": "2",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME706": {
+    "name": "Turbo Machines Laboratory",
+    "shortname": "TM lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME707": {
+    "name": "Dynamics of Machinery Laboratory",
+    "shortname": "DOM lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME708": {
+    "name": "Major Project Work Phase–I",
+    "shortname": "MP",
+    "credits": "4",
+    "marks": "100",
+    "category": "project-1",
+    "department": "ME"
+  },
+  "U14ME802": {
+    "name": "Computer Integrated  Manufacturing Systems",
+    "shortname": "CIM",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "ME"
+  },
+  "U14ME803": {
+    "name": "Professional Elective – IV",
+    "shortname": "PE-4",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME803A": {
+    "name": "Power Plant Engineering",
+    "shortname": "PE-4A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME803B": {
+    "name": "Computational Fluid Dynamics",
+    "shortname": "PE-4B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME803C": {
+    "name": "Design of Thermal Equipment",
+    "shortname": "PE-4C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME804": {
+    "name": "Professional Elective – V",
+    "shortname": "PE-5",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME804A": {
+    "name": "Renewable Energy Sources",
+    "shortname": "PE-5A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME804B": {
+    "name": "Additive Manufacturing",
+    "shortname": "PE-5B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME804C": {
+    "name": "Robotics",
+    "shortname": "PE-5C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME804D": {
+    "name": "Materials Technology",
+    "shortname": "PE-5D",
+    "credits": "4",
+    "marks": "100",
+    "category": "Profes Elective",
+    "department": "ME"
+  },
+  "U14ME805": {
+    "name": "Computer Integrated  Manufacturing Systems Lab",
+    "shortname": "CIM lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME806": {
+    "name": "Energy Engineering Laboratory",
+    "shortname": "EE lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "ME"
+  },
+  "U14ME807": {
+    "name": "Major Project Work Phase–II",
+    "shortname": "MP",
+    "credits": "7",
+    "marks": "100",
+    "category": "project-2",
+    "department": "ME"
+  },
+  "U14MH101": {
+    "name": "Engineering Mathematics-I",
+    "shortname": "EM-I",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "MH"
+  },
+  "U14MH104": {
+    "name": "English for communication",
+    "shortname": "E",
+    "credits": "3",
+    "marks": "100",
+    "category": "subject",
+    "department": "MH"
+  },
+  "U14MH201": {
+    "name": "Engineering Mathematics-II",
+    "shortname": "EM-2",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "MH"
+  },
+  "U14MH204": {
+    "name": "English for communication",
+    "shortname": "E",
+    "credits": "3",
+    "marks": "100",
+    "category": "subject",
+    "department": "MH"
+  },
+  "U14MH301": {
+    "name": "Engineering Mathematics-III",
+    "shortname": "EM-3",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "MH"
+  },
+  "U14MH302": {
+    "name": "Discrete Mathematics",
+    "shortname": "DM",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "MH"
+  },
+  "U14MH309": {
+    "name": "Compliance with Current English",
+    "shortname": "CCE",
+    "credits": "1",
+    "marks": "100",
+    "category": "mandatory",
+    "department": "MH"
+  },
+  "U14MH401": {
+    "name": "Engineering Mathematics-IV",
+    "shortname": "EM-4",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "MH"
+  },
+  "U14MH409": {
+    "name": "Compliance with Current English",
+    "shortname": "CCE",
+    "credits": "1",
+    "marks": "100",
+    "category": "mandatory",
+    "department": "MH"
+  },
+  "U14MH701": {
+    "name": "Management , Economics and Accountancy",
+    "shortname": "MEA",
+    "credits": "4",
+    "marks": "100",
+    "category": "Subject",
+    "department": "MH"
+  },
+  "U14MH801": {
+    "name": "Management, Economics and Accountancy",
+    "shortname": "MEA",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "MH"
+  },
+  "U14OE601": {
+    "name": "Open Elective-I",
+    "shortname": "OE-1",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE601A": {
+    "name": "Disaster Management",
+    "shortname": "OE-1A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE601B": {
+    "name": "Project Management",
+    "shortname": "OE-1B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE601C": {
+    "name": "Professional Ethics in Engineering",
+    "shortname": "OE-1C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE601D": {
+    "name": "Rural Technology and Community Development",
+    "shortname": "OE-1D",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE701": {
+    "name": "Open Elective - II",
+    "shortname": "OE-II",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE701A": {
+    "name": "Operations Research",
+    "shortname": "OE-2A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE701B": {
+    "name": "Management Information Systems",
+    "shortname": "OE-2B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE701C": {
+    "name": "Entrepreneurship Development",
+    "shortname": "OE-2C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE701D": {
+    "name": "Forex and Foreign Trade",
+    "shortname": "OE-2D",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE801": {
+    "name": "Open Elective-II",
+    "shortname": "OE-2",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE801A": {
+    "name": "Operations Research",
+    "shortname": "OE-2A",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE801B": {
+    "name": "Management Information Systems",
+    "shortname": "OE-2B",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE801C": {
+    "name": "Entrepreneurship Development",
+    "shortname": "OE-2C",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14OE801D": {
+    "name": "Forex and Foreign Trade",
+    "shortname": "OE-2D",
+    "credits": "4",
+    "marks": "100",
+    "category": "Open Elective",
+    "department": "OE"
+  },
+  "U14PH103": {
+    "name": "Engineering Physics",
+    "shortname": "P",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "PH"
+  },
+  "U14PH108": {
+    "name": "Engineering Physics Lab",
+    "shortname": "Physics lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "PH"
+  },
+  "U14PH203": {
+    "name": "Engineering Physics",
+    "shortname": "P",
+    "credits": "4",
+    "marks": "100",
+    "category": "subject",
+    "department": "PH"
+  },
+  "U14PH208": {
+    "name": "Engineering Physics Lab",
+    "shortname": "Physics lab",
+    "credits": "2",
+    "marks": "100",
+    "category": "Lab",
+    "department": "PH"
+  }
+}

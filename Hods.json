@@ -1,0 +1,34 @@
+[
+ {
+   "Dept": "CSE",
+   "HOD": "Dr. P.Niranjan"
+ },
+ {
+   "Dept": "CIVIL",
+   "HOD": "Dr. L.Sudheer Reddy"
+ },
+ {
+   "Dept": "MECH",
+   "HOD": "Dr. K. Eswaraiah"
+ },
+ {
+   "Dept": "EI",
+   "HOD": "Dr. K.Sivani"
+ },
+ {
+   "Dept": "EEE",
+   "HOD": "V. Ramaiah"
+ },
+ {
+   "Dept": "ECE",
+   "HOD": "Dr. G. Raghotham Reddy"
+ },
+ {
+   "Dept": "IT",
+   "HOD": "Dr. P. Kamakshi"
+ },
+ {
+   "Dept": "MBA",
+   "HOD": "Dr. V. Nivedita Reddy"
+ }
+]

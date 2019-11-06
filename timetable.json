@@ -1,0 +1,2466 @@
+{
+  "4CSE2": {
+    "monday": [
+      {
+        "title": "BDM (B V-304)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "E-COMM (B V-304)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "STQA (B V-304)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "MEA (B V-304)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "Remedial",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "Remedial",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "Library",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "E-COMM (VC LAB)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "STQA LAB (B1)- (GRAPHICS LAB)-BH+MP\n-MAD Lab(B2)-...",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "STQA LAB (B1)- (GRAPHICS LAB)-BH+MP\n-MAD Lab(B2)-...",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "STQA LAB (B1)- (GRAPHICS LAB)-BH+MP\n-MAD Lab(B2)-...",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "MEA-(B V 304)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "STQA-(B V 304)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "BDM-(B V 304)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "MEA-(B-V 204)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "BDM-(B-V 204)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "STQA-(B-V 204)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "E-COMM-(B-V 204)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "STQA-(B V 302)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "E-COMM-(B V 302)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "Remedial",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "MAD-(VC LAB)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "STQA LAB (B2)- (GRAPHICS LAB) -BH+SMS\n-MAD Lab(Bl...",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "STQA LAB (B2)- (GRAPHICS LAB) -BH+SMS\n-MAD Lab(Bl...",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "STQA LAB (B2)- (GRAPHICS LAB) -BH+SMS\n-MAD Lab(Bl...",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "MEA-(B V 304)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "BDM-(B V 304)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "Library",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "friday": [
+      {
+        "title": "PROJECT WORK",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ASSOCIATION",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "saturday": [
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "NULL",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "NULL",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "NULL",
+        "start": "1540",
+        "end": "1640"
+      }
+    ]
+  },
+  "4CSE1": {
+    "monday": [
+      {
+        "title": "MAD-(VC LAB)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "STQA LAB (B1)- (GRAPHICS LAB)-NCS+MP+PNR\n-MADLab(...",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "STQA LAB (B1)- (GRAPHICS LAB)-NCS+MP+PNR\n-MADLab(...",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "STQA LAB (B1)- (GRAPHICS LAB)-NCS+MP+PNR\n-MADLab(...",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "E-COMM-(B V 304)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "STQA-(B V 304)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "BDM-(B V 304)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "MEA-(B V 304)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "BDM-(B V 304)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "STQA-(B V 304)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "E-COMM-(B V 304)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "STQA LAB(B2)-(GRAPHICS  LAB)-NCS+SK+PNR\n-MAD Lab(...",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "STQA LAB(B2)-(GRAPHICS  LAB)-NCS+SK+PNR\n-MAD Lab(...",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "STQA LAB(B2)-(GRAPHICS  LAB)-NCS+SK+PNR\n-MAD Lab(...",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "BDM-(B V 304)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "E-COMM-(B V 304)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "STQA-(B V 304)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "MEA-(B V 304)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "MEA-(B V 304)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "Remedial/Library",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "Remedial/Library",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "E-COMM-(B V 304)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "STQA-(B V 304)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "BDM-(B V 304)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "MEA-(B V 304)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "friday": [
+      {
+        "title": "PROJECT WORK",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ASSOCIATION",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "PROJECT WORK",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "saturday": [
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "NULL",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "NULL",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "NULL",
+        "start": "1540",
+        "end": "1640"
+      }
+    ]
+  },
+  "3CSE1": {
+    "monday": [
+      {
+        "title": "ADBMS-(B IV 307),\nCGMM-(IBM LAB)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "CNS-(B IV 307)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "DMDW-(B IV 307)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "DM-(B IV 311),\nPM-(B IV 310),\nRT-(B IV 307)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "MINI PROJECT-(IBM LAB)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "MINI PROJECT-(IBM LAB)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "MINI PROJECT-(IBM LAB)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "ADBMS-(B IV 307),\nCGMM-(IBM LAB)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "ML-(B IV 307)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "CNS-(B IV 307)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "WMC-(B IV 307)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "DM-(B IV 311),\nPM-(B IV 310),\nRT-(B IV 307)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DMDW-(B IV 307)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "Library",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "ADBMS-(B IV 307),\nCGMM-(IBM LAB)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "ML-(B IV 307)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "WMC-(B IV 307)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "CNS-(B IV 307)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "DA LAB -(B1)-(RDE LAB)-PS+PR,\nGUI LAB-(B2)-(SE LA...",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DA LAB -(B1)-(RDE LAB)-PS+PR,\nGUI LAB-(B2)-(SE LA...",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "DA LAB -(B1)-(RDE LAB)-PS+PR,\nGUI LAB-(B2)-(SE LA...",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "DM-(B IV 311),\nPM-(B IV 310),\nRT-(B IV 307)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "DA LAB -(B2)-(RDE LAB)-PS+PR,\nGUI LAB-(B1)-(SE LA...",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "DA LAB -(B2)-(RDE LAB)-PS+PR,\nGUI LAB-(B1)-(SE LA...",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "DA LAB -(B2)-(RDE LAB)-PS+PR,\nGUI LAB-(B1)-(SE LA...",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "WMC-(B IV 307)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DMDW-(B IV 307)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "ML-(B IV 307)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "friday": [
+      {
+        "title": "DM-(B IV 311),\nPM-(B IV 310),\nRT-(B IV 307)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "ML-(B IV 307)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "DMDW-(B IV 307)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ASSOCIATION",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "ADBMS-(B IV 307),\nCGMM-(B V 304)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "CNS-(B IV 307)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "WMC-(B IV 307)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "saturday": [
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "NULL",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "NULL",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "NULL",
+        "start": "1540",
+        "end": "1640"
+      }
+    ]
+  },
+  "3CSE2": {
+    "monday": [
+      {
+        "title": "ADBMS-(B IV 307),\nCGMM-(B IV 310)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "ML-(B IV 310)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "CNS-(B IV 310)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "DM-(B IV 311),\nPM-(B IV 310),\nRT-(B IV 307)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "MINI PROJECT-(VC LAB)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "MINI PROJECT-(VC LAB)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "MINI PROJECT-(VC LAB)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "ADBMS-(B IV 307),\nCGMM-(B IV 310)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "WMC-(B IV 310)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "CNS-(B IV 310)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ML-(B IV 310)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "DM-(B IV 311),\nPM-(B IV 310),\nRT-(B IV 307)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DMDW-(B IV 310)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "Library",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "ADBMS-(B IV 307),\nCGMM-(B IV 310)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "DA LAB -(B1)-(RDE LAB)-NG+KS,\nGUI LAB-(B2)-(SE LA...",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "DA LAB -(B1)-(RDE LAB)-NG+KS,\nGUI LAB-(B2)-(SE LA...",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "DA LAB -(B1)-(RDE LAB)-NG+KS,\nGUI LAB-(B2)-(SE LA...",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "ML-(B IV 310)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "WMC-(B IV 310)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "DMDW-(B IV 310)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "DM-(B IV 311),\nPM-(B IV 310),\nRT-(B IV 307)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "DMDW-(B IV 310)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "WMC-(B IV 310)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "CNS-(B IV 310)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "DA LAB -(B2)-(RDE LAB)-NG+VST,\nGUI LAB-(B1)-(SE L...",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DA LAB -(B2)-(RDE LAB)-NG+VST,\nGUI LAB-(B1)-(SE L...",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "DA LAB -(B2)-(RDE LAB)-NG+VST,\nGUI LAB-(B1)-(SE L...",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "friday": [
+      {
+        "title": "DM-(B IV 311),\nPM-(B IV 310),\nRT-(B IV 307)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "WMC-(B IV 310)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "CNS-(B IV 310)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ASSOCIATION",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "ADBMS-(B IV 307),\nCGMM-(B IV 310)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DMDW-(B IV 310)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "ML-(B IV 310)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "saturday": [
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "NULL",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "NULL",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "NULL",
+        "start": "1540",
+        "end": "1640"
+      }
+    ]
+  },
+  "3CSE3": {
+    "monday": [
+      {
+        "title": "ADBMS-(B IV 311),\nCGMM-(B IV 310)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "DMDW-(B IV 311)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "ML-(B IV 311)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "DM-(B IV 311),\nPM-(B IV 310),\nRT-(B IV 307)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "DA LAB -(B2)-(RDE LAB)-BRR+PR,\nGUI LAB-(B1)-(SE L...",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DA LAB -(B2)-(RDE LAB)-BRR+PR,\nGUI LAB-(B1)-(SE L...",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "DA LAB -(B2)-(RDE LAB)-BRR+PR,\nGUI LAB-(B1)-(SE L...",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "ADBMS-(B IV 311),\nCGMM-(B IV 310)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "DA LAB -(B1)-(RDE LAB)-BRR+PR,\nGUI LAB-(B2)-(SE L...",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "DA LAB -(B1)-(RDE LAB)-BRR+PR,\nGUI LAB-(B2)-(SE L...",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "DA LAB -(B1)-(RDE LAB)-BRR+PR,\nGUI LAB-(B2)-(SE L...",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "GUI LAB-(B2)-(SE LAB)-VG+SP",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DMDW-(B IV 311)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "WMC-(B IV 311)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "ADBMS-(B IV 311),\nCGMM-(B IV 310)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "CNS-(B IV 311)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "WMC-(B IV 311)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ML-(B IV 311)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "MINI PROJECT-(VC LAB)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "MINI PROJECT-(VC LAB)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "MINI PROJECT-(VC LAB)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "DM-(B IV 311),\nPM-(B IV 310),\nRT-(B IV 307)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "DMDW-(B IV 311)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "CNS-(B IV 311)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "WMC-(B IV 311)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "ML-(B IV 311)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "CNS-(B IV 311)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "Library",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "friday": [
+      {
+        "title": "DM-(B IV 311),\nPM-(B IV 310),\nRT-(B IV 307)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "WMC-(B IV 311)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "DMDW-(B IV 311)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ASSOCIATION",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "ADBMS-(B IV 311),\nCGMM-(B IV 310)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "ML-(B IV 311)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "CNS-(B IV 311)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "saturday": [
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "NULL",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "NULL",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "NULL",
+        "start": "1540",
+        "end": "1640"
+      }
+    ]
+  },
+  "2CSE1": {
+    "monday": [
+      {
+        "title": "EM IV-(B V 202)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "DBMS-(B V 202)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "OS-(B V 202)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "TOC-(B V 202)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "SE-(B V 202)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "Library",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "Library",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "TOC-(B V 202)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "BE Lab(B2)-PK+GSK,\nOS LAB (B1)-(WT LAB)-VS+MK",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "BE Lab(B2)-PK+GSK,\nOS LAB (B1)-(WT LAB)-VS+MK",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "BE Lab(B2)-PK+GSK,\nOS LAB (B1)-(WT LAB)-VS+MK",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "OS-(B V 202)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DBMS-(B V 202)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "EM IV-(B V 202)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "SE-(B V 202)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TOC-(B V 202)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "CWCE-(B V 202)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "CWCE-(B V 202)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "EM IV-(B V 202)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DBMS-(B V 202)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "Library",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "DBMS-(B V 202)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "SE-(B V 202)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "OS-(B V 202)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "EM IV-(B V 202)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "BE Lab(B1)-PK+PN,\nDBMS LAB (B2)-(IBM LAB)-KVK+GS",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "BE Lab(B1)-PK+PN,\nDBMS LAB (B2)-(IBM LAB)-KVK+GS",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "BE Lab(B1)-PK+PN,\nDBMS LAB (B2)-(IBM LAB)-KVK+GS",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "friday": [
+      {
+        "title": "OS-(B V 202)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "SE-(B V 202)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "TOC-(B V 202)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ASSOCIATION",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "OS LAB (B2)-(WT LAB)-VS+MK,\nDBMS LAB (B1)-(IBM LA...",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "OS LAB (B2)-(WT LAB)-VS+MK,\nDBMS LAB (B1)-(IBM LA...",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "OS LAB (B2)-(WT LAB)-VS+MK,\nDBMS LAB (B1)-(IBM LA...",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "saturday": [
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "NULL",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "NULL",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "NULL",
+        "start": "1540",
+        "end": "1640"
+      }
+    ]
+  },
+  "2CSE2": {
+    "monday": [
+      {
+        "title": "OS-(B V 204)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "DBMS-(B V 204)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "TOC-(B V 204)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "EM IV-(B V 204)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "BE Lab(B2)-YM+GSK,\nDBMS LAB (B1)-(WT LAB)-BR+GS",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "BE Lab(B2)-YM+GSK,\nDBMS LAB (B1)-(WT LAB)-BR+GS",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "BE Lab(B2)-YM+GSK,\nDBMS LAB (B1)-(WT LAB)-BR+GS",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "SE-(B V 204)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "OS-(B V 204)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "DBMS-(B V 204)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "EM IV-(B V 204)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "DBMS LAB (B2)-(SE LAB)-BR+PR,\nOS LAB (B1)-(WT LAB...",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DBMS LAB (B2)-(SE LAB)-BR+PR,\nOS LAB (B1)-(WT LAB...",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "DBMS LAB (B2)-(SE LAB)-BR+PR,\nOS LAB (B1)-(WT LAB...",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "SE-(VC LAB)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "BE Lab(B1)-YM+MS,\nOS LAB (B2)-(WT LAB)-CS+SP",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "BE Lab(B1)-YM+MS,\nOS LAB (B2)-(WT LAB)-CS+SP",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "BE Lab(B1)-YM+MS,\nOS LAB (B2)-(WT LAB)-CS+SP",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "OS-(B V 204)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "TOC-(B V 204)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "EM IV-(B V 204)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "EM IV-(B V 204)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "DBMS-(B V 204)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "OS-(B V 204)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "TOC-(B V 204)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "SE-(B V 204)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "CWCE-(B V 204)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "CWCE-(B V 204)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "friday": [
+      {
+        "title": "DBMS-(B V 204)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TOC-(B V 204)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "SE-(B V 204)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ASSOCIATION",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "Library",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "Library",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "Library",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "saturday": [
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "NULL",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "NULL",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "NULL",
+        "start": "1540",
+        "end": "1640"
+      }
+    ]
+  },
+  "2CSE3": {
+    "monday": [
+      {
+        "title": "EM IV-(B V 302)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "BE Lab(B2)-GR+GSK,\nOS LAB (B1)-(WT LAB)-BS+SP",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "BE Lab(B2)-GR+GSK,\nOS LAB (B1)-(WT LAB)-BS+SP",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "BE Lab(B2)-GR+GSK,\nOS LAB (B1)-(WT LAB)-BS+SP",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "TOC-(B V 302)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "OS-(B V 302)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "SE-(B V 302)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "DBMS-(B V 302)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TOC-(B V 302)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "CWCE-(B V 302)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "CWCE-(B V 302)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "SE-(B V 302)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "OS-(B V 302)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "EM IV-(B V 302)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "EM IV-(B V 302)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "SE-(B V 302)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "OS-(B V 302)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "DBMS-(B V 302)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "Library",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "Library",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "Library",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "SE-(B V 302)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TOC-(B V 302)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "DBMS-(B V 302)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "EM IV-(B V 302)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "DBMS LAB (B1)-(VC LAB)-SS+RS,\nOS LAB (B2)-(WT LAB...",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "DBMS LAB (B1)-(VC LAB)-SS+RS,\nOS LAB (B2)-(WT LAB...",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "DBMS LAB (B1)-(VC LAB)-SS+RS,\nOS LAB (B2)-(WT LAB...",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "friday": [
+      {
+        "title": "TOC-(B V 302)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "OS-(B V 302)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "DBMS-(B V 302)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ASSOCIATION",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "BE Lab(B1)-GR+CPK,\nDBMS LAB (B2)-(VC LAB)-SS+BR",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "BE Lab(B1)-GR+CPK,\nDBMS LAB (B2)-(VC LAB)-SS+BR",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "BE Lab(B1)-GR+CPK,\nDBMS LAB (B2)-(VC LAB)-SS+BR",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "saturday": [
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "TASK/CCA/T&P",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "NULL",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "NULL",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "NULL",
+        "start": "1540",
+        "end": "1640"
+      }
+    ]
+  },
+  "1CSE1": {
+    "monday": [
+      {
+        "title": "M-(B IV-326)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "CHEMISTRY LAB (B IV-018)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "CHEMISTRY LAB (B IV-018)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "CHEMISTRY LAB (B IV-018)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "BEE (B IV-326)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "OOP (B IV-326)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "ES (B IV-326)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "OOP (B IV-324)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "BEM  (T) (B IV-326)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "C(T) (B IV-326)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "M(T) (B IV-326)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "ES (B IV-326)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "BEM (B IV-326)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "OOP  (B IV-326)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "C (B IV-326)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "BEE (B IV-326)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "EAA",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "EAA",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "C (B IV-326)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "BEE (B IV-326)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "BEM (B IV-326)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "M (B IV-326)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "OOP LAB ( B IV-CORE LAB)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "OOP LAB ( B IV-CORE LAB)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "OOP LAB ( B IV-CORE LAB)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "friday": [
+      {
+        "title": "BEM (B IV-326)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "C (B IV-326)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "M (B IV-326)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "OOP (B IV-326)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "saturday": [
+      {
+        "title": "SAC/CCA",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "SAC/CCA",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "SAC/CCA",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "SAC/CCA",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "NULL",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "NULL",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "NULL",
+        "start": "1540",
+        "end": "1640"
+      }
+    ]
+  },
+  "1CSE2": {
+    "monday": [
+      {
+        "title": "OOP (B IV-328)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "BEM (B IV-328)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "C (B IV-328)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "BEE (B IV-328)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "M (B IV-328)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "EAA",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "EAA",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "OOP (B IV-328)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "C (B IV-328)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "BEM (B IV-328)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "M  (B IV-328)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-312)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-312",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-312",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "C (B IV-328)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "OOP LAB ( B IV-CORE LAB)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "OOP LAB ( B IV-CORE LAB)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "OOP LAB ( B IV-CORE LAB)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "BEE (B IV-328)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "BEM (T) (B IV-328)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "OOP (B IV-328)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "M (B IV-328)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "CHEMISTRY LAB (B IV-018)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "CHEMISTRY LAB (B IV-018)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "CHEMISTRY LAB (B IV-018)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "BEM (B IV-328)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "OOP (B IV-328)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "ES (B IV-328)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "friday": [
+      {
+        "title": "BEM (B IV-312)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-312)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-312)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-312)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "ES (B IV-328)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "C(T) (B IV-328)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "M (T) (B IV-328)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "saturday": [
+      {
+        "title": "SAC/CCA",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "SAC/CCA",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "SAC/CCA",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "SAC/CCA",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "NULL",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "NULL",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "NULL",
+        "start": "1540",
+        "end": "1640"
+      }
+    ]
+  },
+  "1CSE3": {
+    "monday": [
+      {
+        "title": "BEM (B IV-327)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "C (B IV-327)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "BEE (B IV-327)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "M (B IV-327)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "CHEMISTRY LAB (B IV-018)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "CHEMISTRY LAB (B IV-018)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "CHEMISTRY LAB (B IV-018)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "tuesday": [
+      {
+        "title": "ES  (B IV-327)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "OOP (B IV-327)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "BEM (B IV-327)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "C (B IV-327)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "wednesday": [
+      {
+        "title": "C  (B IV-327)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "BEE (B IV-327)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "OOP (B IV-327)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "BEM (B IV-327)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "M(T) (B IV-327)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "EAA",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "EAA",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "thursday": [
+      {
+        "title": "OOP (B IV-327)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "OOP LAB ( B IV-CORE LAB)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "OOP LAB ( B IV-CORE LAB)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "OOP LAB ( B IV-CORE LAB)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "M (B IV-327)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "C (T) (B IV-327)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "ES (B IV-327)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "friday": [
+      {
+        "title": "M (B IV-327)",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "ENGG.DRAWING (B IV-324)",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "BEE (B IV-327)",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "BEM (T) (B IV-327)",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "OOP (T) (B IV-327)",
+        "start": "1540",
+        "end": "1640"
+      }
+    ],
+    "saturday": [
+      {
+        "title": "SAC/CCA",
+        "start": "940",
+        "end": "1030"
+      },
+      {
+        "title": "SAC/CCA",
+        "start": "1030",
+        "end": "1120"
+      },
+      {
+        "title": "SAC/CCA",
+        "start": "1120",
+        "end": "1210"
+      },
+      {
+        "title": "SAC/CCA",
+        "start": "1210",
+        "end": "1300"
+      },
+      {
+        "title": "NULL",
+        "start": "1400",
+        "end": "1450"
+      },
+      {
+        "title": "NULL",
+        "start": "1450",
+        "end": "1540"
+      },
+      {
+        "title": "NULL",
+        "start": "1540",
+        "end": "1640"
+      }
+    ]
+  }
+}
