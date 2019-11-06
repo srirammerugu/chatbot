@@ -1,0 +1,174 @@
+[
+  {
+    "id": "1e7d1dc3-ed16-4a2b-91fd-63ce20b068b2",
+    "data": [
+      {
+        "text": "todays",
+        "alias": "ddate",
+        "meta": "@sys.date-time",
+        "userDefined": false
+      },
+      {
+        "text": " class work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523197813
+  },
+  {
+    "id": "2005cdb1-0467-420d-a6a7-445e27d374f6",
+    "data": [
+      {
+        "text": "schedule for ",
+        "userDefined": false
+      },
+      {
+        "text": "4cse1",
+        "alias": "dclass",
+        "meta": "@class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523197813
+  },
+  {
+    "id": "b0849ad4-c342-43dd-8336-9b822d11e68f",
+    "data": [
+      {
+        "text": "Time table for ",
+        "userDefined": false
+      },
+      {
+        "text": "4mec1",
+        "alias": "dclass",
+        "meta": "@class",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523197813
+  },
+  {
+    "id": "f9a33e58-cc69-44e2-98cb-13cc44393b8b",
+    "data": [
+      {
+        "text": "4cse1",
+        "alias": "dclass",
+        "meta": "@class",
+        "userDefined": false
+      },
+      {
+        "text": " classes for ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "ddate",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523197813
+  },
+  {
+    "id": "d7f27f2a-adcd-4017-b474-78c00c83d1bb",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "ddate",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " time table of ",
+        "userDefined": false
+      },
+      {
+        "text": "cse 2nd year 1st section",
+        "alias": "dclass",
+        "meta": "@class",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523197813
+  },
+  {
+    "id": "04d32eb7-37d7-4d97-b078-26504ddeed34",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "ddate",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " time table?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523197813
+  },
+  {
+    "id": "fe9fe837-8402-40da-86ea-4f78d317d02f",
+    "data": [
+      {
+        "text": "what is ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "ddate",
+        "meta": "@sys.date-time",
+        "userDefined": true
+      },
+      {
+        "text": " time table?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523197813
+  },
+  {
+    "id": "b73c9bc6-0081-4157-b331-708b62bf6f9d",
+    "data": [
+      {
+        "text": "Timetable of ",
+        "userDefined": false
+      },
+      {
+        "text": "4cse1",
+        "alias": "dclass",
+        "meta": "@class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523197813
+  }
+]

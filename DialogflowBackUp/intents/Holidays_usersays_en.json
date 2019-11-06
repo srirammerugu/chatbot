@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ac829020-9ccd-4d1c-978b-b0759bf6283b",
+    "data": [
+      {
+        "text": "next holidays",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523198212
+  },
+  {
+    "id": "6b738217-dd51-4a46-8f24-25a2757ab76e",
+    "data": [
+      {
+        "text": "list of holidays",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523198212
+  },
+  {
+    "id": "274a19f8-ccfd-4310-82c9-4c6211cac79c",
+    "data": [
+      {
+        "text": "list the holidays?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523198212
+  },
+  {
+    "id": "d81b6aa3-d703-4536-964e-04010e6faf2c",
+    "data": [
+      {
+        "text": "holidays list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523198212
+  },
+  {
+    "id": "91319920-2b73-44d4-8d5e-a62f5967556c",
+    "data": [
+      {
+        "text": "holidays?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523198212
+  },
+  {
+    "id": "92fd883d-ab0e-44d1-aa2a-09a82f2e1535",
+    "data": [
+      {
+        "text": "when are the holidays?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523198212
+  }
+]

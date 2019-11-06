@@ -1,0 +1,28 @@
+{
+  "id": "d56608ae-fd29-4fc5-91a7-710d405c2f47",
+  "name": "nextholiday",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520189096,
+  "fallbackIntent": false,
+  "events": []
+}

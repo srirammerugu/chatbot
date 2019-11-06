@@ -1,0 +1,53 @@
+{
+  "id": "d1376869-a46b-4847-8a0a-b58c948787c8",
+  "name": "placement",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "11e53631-f4b3-4d6c-8410-ced9a1537f8d",
+          "required": false,
+          "dataType": "@company",
+          "name": "company",
+          "value": "$company",
+          "isList": false
+        },
+        {
+          "id": "11435754-b138-4b97-9f0f-ca6f2c832959",
+          "required": false,
+          "dataType": "@years",
+          "name": "year",
+          "value": "$year",
+          "isList": false
+        },
+        {
+          "id": "83900864-6d2e-42c0-a0ef-b7bf5510c79f",
+          "required": false,
+          "dataType": "@Department",
+          "name": "Dept",
+          "value": "$Dept",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523258841,
+  "fallbackIntent": false,
+  "events": []
+}

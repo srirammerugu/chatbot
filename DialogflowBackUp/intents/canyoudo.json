@@ -1,0 +1,30 @@
+{
+  "id": "b86e0c9f-915b-48a7-a532-ad2ef17e5be1",
+  "name": "canyoudo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am KITSW Chabot.                               I can provide info about                          1.General Info                           2.Exam timetable                             3.Class timetable                              4.placement info                                  5.faculty info                                              6. Semester wise  subjects info                                  7.Holidays info  e.t.c"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523985696,
+  "fallbackIntent": false,
+  "events": []
+}

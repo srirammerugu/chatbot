@@ -1,0 +1,89 @@
+[
+  {
+    "value": "1cse2",
+    "synonyms": [
+      "1cse2",
+      "cse 1st year 2nd section",
+      "cse 1st year section 2",
+      "cse I year II section",
+      "1st year cse-2"
+    ]
+  },
+  {
+    "value": "4mec1",
+    "synonyms": [
+      "4mec1"
+    ]
+  },
+  {
+    "value": "4cse2",
+    "synonyms": [
+      "4cse2",
+      "cse 4th year 2nd section",
+      "cse 4th year section 2",
+      "cse IV year section II",
+      "4th year cse-2"
+    ]
+  },
+  {
+    "value": "3cse2",
+    "synonyms": [
+      "3cse2",
+      "cse 3rd year 2nd section",
+      "cse 3rd year section 2",
+      "cse III year section II",
+      "3rd year cse-2"
+    ]
+  },
+  {
+    "value": "1cse1",
+    "synonyms": [
+      "1cse1",
+      "cse 1st year 1st section",
+      "cse 1st year section 1",
+      "cse I year I section",
+      "1st year cse-1"
+    ]
+  },
+  {
+    "value": "4cse1",
+    "synonyms": [
+      "4cse1",
+      "cse 4th year 1st section",
+      "cse 4/4 -1",
+      "cse IV year I section",
+      "cse IV year section 1",
+      "4th year cse-1"
+    ]
+  },
+  {
+    "value": "2cse1",
+    "synonyms": [
+      "2cse1",
+      "cse 2nd year 1st section",
+      "cse 2nd year section 2",
+      "cse II year section I",
+      "2nd year cse-1"
+    ]
+  },
+  {
+    "value": "2cse2",
+    "synonyms": [
+      "2cse2",
+      "cse 2nd year 2nd section",
+      "cse 2nd year section 2",
+      "cse II year II section",
+      "2nd year cse-2"
+    ]
+  },
+  {
+    "value": "3cse1",
+    "synonyms": [
+      "3cse1",
+      "cse 3rd year 1st section",
+      "cse 3rd year section 1",
+      "cse III year section I",
+      "3rd year cse-1"
+    ]
+  }
+]

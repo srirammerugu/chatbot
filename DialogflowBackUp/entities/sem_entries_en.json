@@ -1,0 +1,99 @@
+[
+  {
+    "value": "sem5",
+    "synonyms": [
+      "5",
+      "third year 1st sem",
+      "3rd year 1st sem",
+      "III year I sem",
+      "3-1"
+    ]
+  },
+  {
+    "value": "sem7",
+    "synonyms": [
+      "7",
+      "4-1",
+      "fourth year 1st sem",
+      "fourth year first sem",
+      "4th year 1st sem",
+      "IV year I sem"
+    ]
+  },
+  {
+    "value": "sem2",
+    "synonyms": [
+      "2",
+      "1-2",
+      "first year 2nd sem",
+      "1st year 2nd sem",
+      "I year II sem",
+      "second sem",
+      "2nd sem"
+    ]
+  },
+  {
+    "value": "sem3",
+    "synonyms": [
+      "sem3"
+    ]
+  },
+  {
+    "value": "sem3",
+    "synonyms": [
+      "3",
+      "2-1",
+      "second year 1st sem",
+      "2nd year 1st sem",
+      "II year I sem"
+    ]
+  },
+  {
+    "value": "sem1",
+    "synonyms": [
+      "1",
+      "1-1",
+      "first year 1sem",
+      "1st year 1st sem",
+      "1/4 first sem",
+      "first sem",
+      "I year I sem"
+    ]
+  },
+  {
+    "value": "sem6",
+    "synonyms": [
+      "6",
+      "3-2",
+      "third year 2nd sem",
+      "3rd year 2nd sem",
+      "III year II Sem"
+    ]
+  },
+  {
+    "value": "sem8",
+    "synonyms": [
+      "8",
+      "4-2",
+      "4th year 2st sem",
+      "fourth year second sem",
+      "IV year II sem"
+    ]
+  },
+  {
+    "value": "sem 5",
+    "synonyms": [
+      "sem 5"
+    ]
+  },
+  {
+    "value": "sem4",
+    "synonyms": [
+      "4",
+      "2-2",
+      "second year 2nd sem",
+      "2nd year 2nd sem",
+      "II year II sem"
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "id": "b18d6cf6-e921-495b-a8c1-57941bdc4f73",
+    "data": [
+      {
+        "text": "next class for ",
+        "userDefined": false
+      },
+      {
+        "text": "4cse1",
+        "alias": "dclass",
+        "meta": "@class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523198979
+  },
+  {
+    "id": "383b0d9d-904c-473b-b15c-547281afc687",
+    "data": [
+      {
+        "text": "next period for ",
+        "userDefined": false
+      },
+      {
+        "text": "4cse1",
+        "alias": "dclass",
+        "meta": "@class",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523198979
+  },
+  {
+    "id": "2f25c0bd-4fcc-4815-834d-faee68185dd6",
+    "data": [
+      {
+        "text": "what is the next class?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523198979
+  },
+  {
+    "id": "e11c7abb-9d5c-400b-982d-4a7d4f55f314",
+    "data": [
+      {
+        "text": "which class is there for ",
+        "userDefined": false
+      },
+      {
+        "text": "1cse2",
+        "alias": "dclass",
+        "meta": "@class",
+        "userDefined": true
+      },
+      {
+        "text": " next?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523198979
+  },
+  {
+    "id": "1d4122cd-2978-4cd0-9f46-d603dfba08f8",
+    "data": [
+      {
+        "text": "which class is next?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523198979
+  }
+]

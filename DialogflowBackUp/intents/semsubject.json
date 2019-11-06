@@ -1,0 +1,57 @@
+{
+  "id": "83b66e48-bf9a-4fba-95e5-c35c8c9b9d59",
+  "name": "semsubject",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3d7f3762-a8b1-47fb-9fbd-22a6a2fb66e7",
+          "required": true,
+          "dataType": "@Department",
+          "name": "Dept",
+          "value": "$Dept",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which Department(ex: CSE,ECE,EEE)?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "1a4fe323-8c0b-4adb-b098-f578c6329e0a",
+          "required": true,
+          "dataType": "@sem",
+          "name": "sem",
+          "value": "$sem",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which semester (ex:-1-1,1st year 1st sem)?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1523199073,
+  "fallbackIntent": false,
+  "events": []
+}

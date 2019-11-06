@@ -1,0 +1,45 @@
+{
+  "id": "f1c556da-16aa-4a8b-950b-320ab972ac83",
+  "name": "seats",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a865f620-a936-4743-bb35-86477d97af29",
+          "required": false,
+          "dataType": "@Department",
+          "name": "Dept",
+          "value": "$Dept",
+          "isList": false
+        },
+        {
+          "id": "3ad3e667-da2f-41a0-b1a5-fec8a49b73f5",
+          "required": false,
+          "dataType": "@degree",
+          "name": "degree",
+          "value": "$degree",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520801625,
+  "fallbackIntent": false,
+  "events": []
+}
