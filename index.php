@@ -273,6 +273,7 @@ if($method == 'POST'){
  
      		}
  	}	
+			echo "$speech";
 
 /*			foreach ($json_data as $value) {
 				if($value["Year"]==$year)
@@ -323,7 +324,8 @@ if($method == 'POST'){
 	$response->speech = $speech;
 	$response->displayText = $speech;
 	$response->source = "webhook";
-	echo json_encode($response);
+	//echo json_encode($response);
+	echo "$speech";
 }
 else
 {
