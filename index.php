@@ -253,8 +253,8 @@ if($method == 'POST'){
 			if(!$year){$year="2017";}
 			if(!$company){$company="Total";}
 			if(!$dept){$dept="Total";}
-			$jsonf = file_get_contents('placement.json');
-			$json_data = json_decode($jsonf,true);
+//			$jsonf = file_get_contents('placement.json');
+//			$json_data = json_decode($jsonf,true);
 			
 			$sql_query = "select * from placements";
 
