@@ -258,12 +258,12 @@ if($method == 'POST'){
 			
 			$sql_query = "select * from placements";
 
-		$result=mysqli_query($conn, $sql_query);
+		$res=mysqli_query($conn, $sql_query);
  
 	
- 	if(mysqli_num_rows($result)>0)
+ 	if(mysqli_num_rows($res)>0)
  	{
-     		while ($row = mysqli_fetch_assoc($result)) 
+     		while ($row = mysqli_fetch_assoc($res)) 
      		{     
          
          		foreach($row as $k=>$value)
