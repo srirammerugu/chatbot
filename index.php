@@ -2,21 +2,6 @@
 $method = $_SERVER['REQUEST_METHOD'];
 date_default_timezone_set("Asia/Kolkata");
 
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dataBaseName="kitscollege";
-// Create connection
-$conn = mysqli_connect($servername, $username, $password,$dataBaseName);
-
-// Check connec
-// tion
-if (!$conn) {
-    die("Connection failed: " . mysqli_connect_error());
-}
-
-echo "Connection successful<br/>";
-
 if($method == 'POST'){
 	$requestBody = file_get_contents('php://input');
 	$json = json_decode($requestBody);
@@ -253,29 +238,10 @@ if($method == 'POST'){
 			if(!$year){$year="2017";}
 			if(!$company){$company="Total";}
 			if(!$dept){$dept="Total";}
-//			$jsonf = file_get_contents('placement.json');
-//			$json_data = json_decode($jsonf,true);
+			$jsonf = file_get_contents('placement.json');
+			$json_data = json_decode($jsonf,true);
 			
-			$sql_query = "select * from placements";
-
-		$res=mysqli_query($conn, $sql_query);
- 
-	
- 	if(mysqli_num_rows($res)>0)
- 	{
-     		while ($row = mysqli_fetch_assoc($res)) 
-     		{     
-         
-         		foreach($row as $k=>$value)
- 	        	{
-        	     		$speech.=$value." ";
-         		}
- 
-     		}
- 	}	
-			echo $speech;
-
-/*			foreach ($json_data as $value) {
+			foreach ($json_data as $value) {
 				if($value["Year"]==$year)
 					if($value["Company"]==$company){
 						if($company=="Total"){
@@ -293,7 +259,7 @@ if($method == 'POST'){
 						}
 					}
 			}
-*/
+
 			if (!$speech) {
 				$speech="that department does not exist in our college.";
 			}
