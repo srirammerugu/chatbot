@@ -261,7 +261,7 @@ if($method == 'POST'){
 			}
 
 			if (!$speech) {
-				$speech="that department does not exist in our college.";
+				$speech=$company." "."that department does not exist in our college.";
 			}
 		break;
 		case "tellmoreaboutfests":
